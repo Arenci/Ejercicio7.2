@@ -1,2 +1,5 @@
 Hola, buenos días.
+
 Me llamo Carlos, ha aparecido un error.
+Y esto es un error solucionado.
+
